@@ -1,0 +1,106 @@
+{
+   "assets" : [
+      {
+         "authors" : [
+            "JAMES KANTER",
+            "MARK SCOTT"
+         ],
+         "body" : "This is the time of year when publications that cover the hedge-fund industry do their annual rankings, and people get irate about the vast sums of money that the top hedgies make—in some cases, billions of dollars. At the top of this year's list, according to a survey from Institutional Investor Alpha, are four familiar names: David Tepper, of Appaloosa Management, who made $3.5 billion; Stephen Cohen, of SAC Capital ($2.4 billion); John Paulson, of Paulson & Co. ($2.3 billion); and James Simons, of Renaissance Technologies ($2.2 billion). Questions can be raised about these and similar figures from other publications, which are rough guesstimates based on the size of the funds and the returns they made last year. The hedge-fund industry is famously secretive. Folks like Tepper and Paulson don't take ads out in the Times or the Wall Street Journal announcing that another ten figures has been added to their net worth. But let's assume, for now, that the numbers are broadly accurate, at least in terms of magnitude. Nobody, not even the paid defenders of hedge funds, contests the fact that some of them generate gargantuan profits for their owners and managers. Now and then, this stirs up moral outrage. Last week, Vox's Matt Yglesias pointed out that the $21.1 billion accumulated by the top twenty-five hedgies in 2013 was more than the combined salaries of all the kindergarten teachers in the country. Paul Krugman picked up on that fact and called for higher taxes on the hedgies, who benefit from the scandalous “carried-interest” deduction, a drum that I and many others have been banging for years. I'll believe that Washington is getting serious about rising inequality the day it consigns the carried-interest deduction to history. But my point here is different, and it receives rather less attention: How the heck do these guys make so much money, year in and year out? A big part of the answer is the hefty fees they charge. To put it a bit more technically: Why do investors in hedge funds—the people whose money is at risk—continue to allow the managers of the funds to dictate such onerous terms to them? Years ago, defenders of hedge funds argued that they earned their money by delivering above-market returns on a consistent basis, but this argument is much harder to make these days. For five years in a row, hedge-fund returns have trailed the stock market. Last year was a real doozy for the industry. The S. & P. 500 had a great year and generated a thirty-two-per-cent return. According to Bloomberg, the typical hedge-fund return (net after fees) was 7.4 per cent. That's a differential of almost twenty-five percentage points. Not to belabor the point, but investors in hedge funds paid through the nose for this underperformance. You can invest in an S. & P. 500 index fund through Fidelity (or any large brokerage firm) for an annual management fee of about 0.1 per cent. For every $100,000 you invest, you pay $100. If you invest in a well-known hedge fund, you will probably be asked to pay a management fee of about $2,000 for every $100,000 you invest, plus a “performance fee” of twenty per cent. This is the industry's standard “two-and-twenty” formula. Of course, the hedgies at the top of the rankings did considerably better than the average fund. But even they didn't beat the broader market by very much. Again, we don't have the figures, so we have to rely on published estimates. Appaloosa's flagship funds reportedly gained forty-two per cent. One of Paulson's funds gained more than sixty per cent, but the firm also runs funds that didn't do as well. Those were the top performers. In many other cases, hedge-fund managers were paid hundreds of millions of dollars even as they failed to beat the market by a considerable margin. Because of their hefty management fees and the fact that they have billions of dollars of investments under management, some hedgies can make handsome returns even when they are generating what is known in the industry as “negative alpha.” Does this really matter? Decades ago, investors in hedge funds were almost all very rich people. If they were willing to pay two and twenty for the privilege of boasting that George Soros or Paul Tudor Jones was managing their money, it didn't matter to the rest of us. These days, though, institutional investors, such as pension funds, charitable endowments, and even government investment funds, are big investors in hedge funds. To some extent, at least, the hedgies, with their exorbitant fees, are pocketing money that could be going to teachers, firefighters, and ordinary taxpayers. So how do they get away with it? In carrying out their normal business, institutional investors are eager to get a break on the fees they pay to firms that manage their money. That helps to explain the rise of index funds and exchange-traded funds, which are much cheaper than actively managed mutual funds. (Index funds purchase all the stocks in a given index. Actively managed funds try to beat the market by selecting various individual stocks.) Last year, the California Public Employees Retirement System, known as CalPERS, announced that it was switching more and more of its assets to index funds and other passive investments. In the United Kingdom, the government has just announced that almost half of all the assets controlled by local authority pension funds will be switched to index funds in order to save cash. How has the hedge-fund industry escaped this cost-cutting trend? Part of the answer is that it hasn't, or not entirely. Institutional investors are forcing some hedge funds, particularly the newer ones, to back off the old two-and-twenty formula. Earlier this year, citing figures from Hedge Fund Research, a firm that tracks the industry, The Economist said, “Investors have succeeded in amending the formula to something more like ‘1.4 and 17,' at least for newcomers to the business.” And yet, the biggest and most successful funds have been largely immune to this austerity drive. Some them charge even more than two and twenty (SAC, before the government effectively closed it down for being a hotbed of insider dealing, was reputed to charge three and fifty). And, of course, a fee structure of 1.4 and seventeen is still very generous to the hedgies. If, last year, I ran a hedge fund with five billion dollars under management, had charged those fees, and had merely matched the stock market, I would have made more than four hundred million dollars. Even after deducting the considerable costs of a running a big hedge fund, that's serious moolah. So, again: How on earth do they get away with it? It's a competitive industry, and there's no obvious reason why the normal laws of economics shouldn't apply. Competition and entry should drive down prices. At the very least, you would think that there would be a movement to change the performance fees so they are assessed relative to the market return, rather than relative to zero. But it hasn't happened, and the question is: Why not? Answers on a postcard, please. And note: saying that investors are willing to pay for performance won't do. That's begging the question rather than answering it.",
+         "byline" : "<div id=\"byline\">By JAMES KANTER and MARK SCOTT</div>",
+         "commentsEnabled" : true,
+         "firstPublishedTs" : 1399970274,
+         "id" : 100000002875486,
+         "keywords" : [
+            "Google Inc|GOOGL|NASDAQ",
+            "Privacy",
+            "Law and Legislation",
+            "Computers and the Internet",
+            "Europe"
+         ],
+         "printEdition" : "The New York Times on the Web",
+         "printHeadline" : "Google Must Honor Requests to Delete Some Links, E.U. Court Says",
+         "printPubDate" : 1400040000,
+         "pubDate" : 1400040000,
+         "relatedAssets" : [
+            {
+               "caption" : "The highest court in the European Union decided on Tuesday that Google must, in some cases, honor requests from its search engine users to delete links to personal information.",
+               "channel" : "News Clips",
+               "credit" : "Produced by ",
+               "encodings" : {
+                  "video_l_3g_mob" : {
+                     "height" : 270,
+                     "url" : "http://video1.nytimes.com/video/2014/05/13/28186_1_eu-google-decision_wg_16x9_l_3g_mob.mp4",
+                     "width" : 480
+                  },
+                  "video_xl_bb_mm" : {
+                     "height" : 360,
+                     "url" : "http://video1.nytimes.com/video/2014/05/13/28186_1_eu-google-decision_wg_16x9_xl_bb_mm.mp4",
+                     "width" : 640
+                  },
+                  "video_xs_2g_mob" : {
+                     "height" : 144,
+                     "url" : "http://video1.nytimes.com/video/2014/05/13/28186_1_eu-google-decision_wg_16x9_xs_2g_mob.mp4",
+                     "width" : 256
+                  },
+                  "video_xxxl_hb_mm" : {
+                     "height" : 576,
+                     "url" : "http://video1.nytimes.com/video/2014/05/13/28186_1_eu-google-decision_wg_16x9_xxxl_hb_mm.mp4",
+                     "width" : 1024
+                  }
+               },
+               "id" : 100000002877608,
+               "kicker" : "BUSINESS",
+               "primaryPlaylist" : "",
+               "pubDate" : 1399953600,
+               "stills" : {
+                  "stillLarge" : {
+                     "height" : 507,
+                     "url" : "http://graphics8.nytimes.com/images/2014/05/13/multimedia/eu-google-decision/eu-google-decision-videoLarge.jpg",
+                     "width" : 768
+                  },
+                  "thumbStandard" : {
+                     "height" : 75,
+                     "url" : "http://graphics8.nytimes.com/images/2014/05/13/multimedia/eu-google-decision/eu-google-decision-thumbStandard.jpg",
+                     "width" : 75
+                  }
+               },
+               "tinyUrl" : "http://nyti.ms/1spPltH",
+               "title" : "E.U. Court Rules in Google Privacy Case",
+               "type" : "video",
+               "url" : "http://www.nytimes.com/video/business/100000002877608/eu-court-rules-in-google-privacy-case.html"
+            }
+         ],
+         "section" : "technology",
+         "sectionDisplayName" : "Technology",
+         "showTimestamp" : true,
+         "summary" : "The European Union’s top court dealt a blow to the technology giant, ruling it must be more actively involved in refereeing privacy complaints.",
+         "tagline" : "James Kanter reported from Brussels and Mark Scott from Berlin. Raphael Minder contributed reporting from Madrid.",
+         "tinyUrl" : "http://nyti.ms/1gysWp0",
+         "title" : "Google Must Honor Requests to Delete Some Links, E.U. Court Says",
+         "type" : "article",
+         "updatedDate" : 1399997610,
+         "url" : "http://www.nytimes.com/2014/05/14/technology/google-should-erase-web-links-to-some-personal-data-europes-highest-court-says.html"
+      }
+   ],
+   "groups" : [
+      {
+         "assetIds" : [
+            100000002872656
+         ],
+         "hasBanner" : false,
+         "ledeMultimedia" : {
+            "aspect" : "standard",
+            "id" : 100000002876323,
+            "relatedAssetId" : 100000002872656,
+            "type" : "image"
+         },
+         "name" : "PhotoSpot"
+      },
+      {
+         "assetIds" : [
+            100000002875793
+         ],
+         "name" : "Pocket"
+      }
+   ]
+}
